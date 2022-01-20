@@ -1,0 +1,3 @@
+size: 600x338
+fps: 7-10
+Encoder:gifski lower quality (50)
