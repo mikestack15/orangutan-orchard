@@ -9,7 +9,7 @@ In the materials section of this guide is listed a specific type of SD card used
 <br></br>
 ![](../../media/gifs/inserting_sd_pc.gif)
 <br></br>
-2. From the official Raspberry Pi website download the quick start ***Raspbian for Robots*** OS installer.
+2. From the official Raspberry Pi website download the quick start ***Raspbian for Robots*** OS imager.
 <br></br>
 ![](../../media/gifs/raspian_robots_download.gif)
 <br></br>
@@ -17,5 +17,8 @@ In the materials section of this guide is listed a specific type of SD card used
 <br></br>
 ![](../../media/gifs/raspian_robots_install.gif)
 <br></br>
-4. Select the operating system and SD card to install it on.
-5. Close the launcher once the operating system has successfully been flashed to the SD.
+4. Go to [The Official Raspberry Pi  OS Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) and follow the installation instructions for your specific computer for the next steps. 
+5. Select the ***Raspberry Pi OS*** and SD card to install it on.
+6. Navigate to the advanced settings menu 
+7. Check enable SSH, change the time zone to the local time zone, and change the keyboard layout to your specific language.
+7. Close the launcher once the operating system has successfully been flashed to the SD.
