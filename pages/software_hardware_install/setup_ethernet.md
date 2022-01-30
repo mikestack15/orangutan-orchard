@@ -9,6 +9,3 @@ Ethernet is a technology that allows us to communicate directly with machines wi
 <br></br>
 ![](../../media/gifs/inserting_ethernet_pi.gif)
 <br></br>
-4. Once a connection has been established, blinking lights will appear on the Pi.
-5. From a windows or mac computer on the same network, open up a command prompt.
-6. `ping raspberrypi.local` should return with information regarding this new device.
