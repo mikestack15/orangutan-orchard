@@ -1,8 +1,20 @@
 ## Installing MCP3008 ADC to breadboard
 1. FInd a clean breadboard
+<br></br>
+![](../../media/diagrams/weather_station_mcp_blank.jpeg)
+<br></br>
 2. Find the MCP 3008 Integrated Circuit
-3. Place the MCP3008 onto the breadboard on columns E and F with the indented terminal starting on row 
+<br></br>
+![](../../media/diagrams/weather_station_mcp_mcp3008.jpeg)
+<br></br>
+3. Place the MCP3008 onto the breadboard on columns E and F with the top two pins inserted on row 18, and the bottom two pins inserted on row 11. The top of the circuit is indicated by the semi-circular notch. 
+<br></br>
+![](../../media/gifs/weather_station_mcp_placement.gif)
+<br></br>
 4. Flip the board over and solder the pins to the board.
+<br></br>
+![](../../media/gifs/weather_station_mcp_solder_back.gif)
+<br></br>
 5. Attach and solder 2 power wires. Attach one end of each wire to the positive rail, and the other ends to holes D17 and D18. 
 <br></br>
 ![](../../media/diagrams/weather_station_mcp_power.jpeg)
