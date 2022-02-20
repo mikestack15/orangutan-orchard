@@ -21,6 +21,6 @@ Below is a list of proceedures for this project. Follow these in order to build 
 
 Once the above steps have been completed see:
 
-[Install software from GitHub](./use_github)
+[Install software from GitHub](./use_github.md)
 
 [Test sensors and deliver data](./calibrate_test_sensors)
