@@ -19,8 +19,3 @@ Below is a list of proceedures for this project. Follow these in order to build 
 9. [Installing RJ11 Breakout Terminals for Wind and Rain Gauges](./setup_rj11.md)
 <br></br>
 
-Once the above steps have been completed see:
-
-[Install software from GitHub](./use_github.md)
-
-[Test sensors and deliver data](./calibrate_test_sensors)
